@@ -1,13 +1,13 @@
 Step 1:
 First, clone the repository to your local machine by running:
 
-git clone https://github.com/anasmallick35/chocolate_shop
+git clone https://github.com/Jatin-kumar-10/Chocolate_shop
 
 Step 2:
 
 Once the repository is cloned, navigate to the project directory with:
 
-cd chocolate_shop
+cd Chocolate_shop
 
 Step 3:
 
